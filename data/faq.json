@@ -1,0 +1,14 @@
+[
+  {"id":"faq001","question":"Môn học sử dụng nền tảng nào để nộp bài?","answer":"Sinh viên nộp bài trên hệ thống LMS do giảng viên công bố.","category":"general"},
+  {"id":"faq002","question":"Điểm lab chiếm bao nhiêu phần trăm?","answer":"Cần đối chiếu đề cương chính thức để xác nhận tỷ trọng điểm lab.","category":"grading"},
+  {"id":"faq003","question":"Khi nào thi cuối kỳ?","answer":"Ngày thi cuối kỳ xem theo lịch thi chính thức của trường.","category":"exam"},
+  {"id":"faq004","question":"Nộp bài trễ có bị trừ điểm không?","answer":"Vui lòng xem quy định nộp trễ trong đề cương hoặc thông báo của giảng viên.","category":"assignment"},
+  {"id":"faq005","question":"Có thể làm bài tập theo nhóm không?","answer":"Hình thức làm nhóm phụ thuộc yêu cầu từng bài tập do giảng viên công bố.","category":"assignment"},
+  {"id":"faq006","question":"Nếu bị lỗi AWS Learner Lab thì làm sao?","answer":"Chụp màn hình lỗi, ghi thời gian, Region và báo giảng viên hoặc trợ giảng.","category":"lab"},
+  {"id":"faq007","question":"Nên triển khai AWS ở Region nào?","answer":"Theo yêu cầu đồ án, chỉ sử dụng us-east-1 hoặc us-west-2.","category":"aws"},
+  {"id":"faq008","question":"Có được dùng LLM bên trong chatbot không?","answer":"Không. Hệ thống phải tự tìm kiếm trên FAQ, không gọi API LLM bên ngoài.","category":"project"},
+  {"id":"faq009","question":"Nhóm tối đa bao nhiêu sinh viên?","answer":"Mỗi nhóm có tối đa 2 sinh viên.","category":"project"},
+  {"id":"faq010","question":"Video demo được dài bao lâu?","answer":"Video demo dài tối đa 10 phút.","category":"project"},
+  {"id":"faq011","question":"Mỗi sinh viên phải làm bao nhiêu giờ một tuần?","answer":"Ít nhất 8 giờ mỗi tuần cho mỗi sinh viên.","category":"project"},
+  {"id":"faq012","question":"Các dịch vụ AWS bắt buộc là gì?","answer":"Lambda, API Gateway, S3 và DynamoDB là các dịch vụ cốt lõi bắt buộc.","category":"aws"}
+]
